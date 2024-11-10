@@ -1,3 +1,6 @@
+#python -m streamlit run c:/Users/andre/OneDrive/Documentos/aluguel_em_são_paulo/dashboards.py
+
+
 import streamlit as st
 import pandas as pd
 import numpy as np
